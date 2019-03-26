@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LearnAgriculture</string>
+    <string name="msg_de_bienvenue"> Ici nous vous apprenons les bases de techniques agricoles et d_elevage</string>
+    <string name="texte_intro_agriculture"> L_agriculture est un processus par lequel les etres humains amenagent
+        leurs ecosystemes et controlent le cycle biologique d_espèces domestiquees, dans le but de produire
+        des aliments et d_autres ressources utiles a leurs societes.
+     Elle designe l_ensemble des savoir_faire et activites ayant pour objet la culture des sols, et,
+        plus généralement, l_ensemble des travaux sur le milieu naturel (pas seulement terrestre) permettant de
+        cultiver et prelever des etres vivants
+        (vegetaux, animaux, voire champignons ou microbes) utiles à l_etre humain.
+    </string>
+    <string name="texte_intro_elevage">L_elevage est l_ensemble des activites qui assurent la multiplication des animaux
+        souvent domestiques, parfois sauvages, pour l_usage des humains.</string>
+</resources>
