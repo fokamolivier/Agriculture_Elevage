@@ -1,9 +1,11 @@
-package com.example.learnagriculture;
+package com.example.learnagriculture.View;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class elevage extends AppCompatActivity {
+import com.example.learnagriculture.R;
+
+public class Elevage extends AppCompatActivity {
 
 
     @Override
